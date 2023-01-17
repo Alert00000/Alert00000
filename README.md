@@ -1,4 +1,4 @@
 Me: 
-- Grey hat hacker 🎩
+- White hat hacker 🎩
 - Learning python 🐍
-- Contact: ALERT0#0088 📩
+- Contact: Alert000#1015 📩
